@@ -19,8 +19,6 @@ An intelligent, voice-driven onboarding system that simulates a human-like AI ag
 -  **Modern UI** – Glassmorphism design, animated avatar, responsive layout
 -  **Privacy First** – All processing happens locally in your browser
 
-##  Live Demo
-
 
 ##  How It Works
 
@@ -180,3 +178,14 @@ Distributed under the MIT License. See `LICENSE` file for more information.
 
 ##  Contact
 
+Om Gedam
+
+GitHub: [https://github.com/itsomg134](https://github.com/itsomg134)
+
+Email: [omgedam123098@gmail.com](mailto:omgedam123098@gmail.com)
+
+Twitter (X): [https://twitter.com/omgedam](https://twitter.com/omgedam)
+
+LinkedIn: [https://linkedin.com/in/omgedam](https://linkedin.com/in/omgedam)
+
+Portfolio: [https://ogworks.lovable.app](https://ogworks.lovable.app)
