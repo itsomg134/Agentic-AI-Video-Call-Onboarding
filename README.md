@@ -6,7 +6,7 @@
 
 An intelligent, voice-driven onboarding system that simulates a human-like AI agent conducting a real-time video call. Built with vanilla HTML/CSS/JS and browser APIs — no backend required.
 
-![Agentic AI Demo Screenshot](https://via.placeholder.com/800x450?text=Agentic+AI+Video+Call+Demo)
+<img width="1881" height="971" alt="image" src="https://github.com/user-attachments/assets/07dae48e-9d31-44e7-af41-caec821481ea" />
 
 ##  Features
 
